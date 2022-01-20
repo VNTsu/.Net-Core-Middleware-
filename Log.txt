@@ -1,0 +1,18 @@
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7007,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7007,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7007,
+ Path: /Home/Privacy,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
